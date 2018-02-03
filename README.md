@@ -1,2 +1,15 @@
 # creativeRailsProject
-Partners: Chen Pekker and Daksha Agarwal
+
+Contributors: Chen Pekker and Daksha Agarwal
+
+Summary:
+
+Product users:
+
+MVP (essential features):
+
+Functionality: 
+
+Issues:
+
+References:
