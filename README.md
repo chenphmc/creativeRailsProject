@@ -24,6 +24,8 @@ To install our application, download the entire repo and start the server in ter
 References:
 - MIT License taken from: https://opensource.org/licenses/MIT
 - Tutorial taken from: https://codeburst.io/making-a-twitter-clone-in-raw-html-with-ruby-on-rails-and-a-lil-javascript-270a5e227cb2 
+- second tutorial repo: https://github.com/CS121-Spr18/marmelade 
+- second tutorial: https://medium.com/@bruno_boehm/full-blog-app-tutorial-on-rails-zero-to-deploy-4c19e8174791 
 
 
 As suggested in the homework instructions, we added the MIT License:
