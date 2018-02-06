@@ -1,6 +1,5 @@
 # creativeRailsProject
 
-Our app name: Salut!
 Contributors: Chen Pekker and Daksha Agarwal
 
 Summary:
@@ -17,7 +16,11 @@ As an online user, this application will allow you to share your thoughts instan
 
 Here are a couple of examples of what creating and commenting on a post will look like:
 
-#TODO: add pics here
+Example of creating a post:
+![alt text](https://github.com/CS121-Spr18/creativeRailsProject/blob/master/Screen%20Shot%202018-01-28%20at%208.31.36%20PM.png)
+
+Example of commenting on a post:
+![alt text](https://github.com/CS121-Spr18/creativeRailsProject/blob/master/Screen%20Shot%202018-01-28%20at%209.22.20%20PM.png)
 
 Issues:
 The first issue we ran into was that one of the contributors was unable to push code onto their github. We kept getting the following error: "Error Code 403 fatal: HTTP request failed." Despite searching online for a solution and trying several, we couldn't get the error to go away. We're working to fix it this week.
